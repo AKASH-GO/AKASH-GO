@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 - 🌱 I’m currently learning **MERN**
 
+- 🤝 I’m looking for help with **JS frameworks**
+
 - 📝 I regularly write articles on [non-fiction, comics](non-fiction, comics)
 
 - 💬 Ask me about **JavaScript, MERN**
@@ -13,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/akashraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akashraja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash venkateswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash venkateswaran" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20269991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20269991" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/akashraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/akashraja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-venkateswaran-512b2620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-venkateswaran-512b2620b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20269991/akash-raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20269991/akash-raja" height="30" width="40" /></a>
 <a href="https://instagram.com/akash.rajaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.rajaaa" height="30" width="40" /></a>
 </p>
 
