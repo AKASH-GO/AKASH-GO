@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
-- 🌱 I’m currently learning **MERN**
+ 🌱 I’m currently learning **MERN**
 
 - 🤝 I’m looking for help with **JS frameworks**
 
