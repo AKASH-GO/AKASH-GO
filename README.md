@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashrajageek@gmail.com**
 
-- ⚡ Fun fact **710+ Coding languages around 🌍 </> My 💙 JavaScript**
+- ⚡ Fun fact **710+ Coding languages around 🌍 <<>> My 💙 JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
