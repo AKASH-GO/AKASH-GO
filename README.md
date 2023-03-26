@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Raja</h1>
 <h3 align="center">A Passionate FullStack Developer From India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=IBoPzgI7&id=DC49C0C56DF6D4D0F88EE8B2B031C9413F968ED5&thid=OIP.IBoPzgI7K2WQprGKT91PFgHaEq&mediaurl=https%3a%2f%2fcamo.githubusercontent.com%2fcae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17%2f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&exph=428&expw=680&q=coding+programmer+gif&simid=608019828888710209&FORM=IRPRST&ck=05EDD92DDDF4053D4C38A5A55970E92F&selectedIndex=8">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-go&label=Profile%20views&color=0e75b6&style=flat" alt="akash-go" /> </p>
 
 - 🌱 I’m currently learning **MEARN**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **JS Frameworks**
 
-- 💬 Ask me about **JS Frameworks & Figma**
+- 💬 Ask me about **JScript & Figma**
 
 - 📫 How to reach me **akashrajageek@gmail.com**
 
