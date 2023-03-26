@@ -32,7 +32,7 @@
 
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-go&show_icons=true&locale=en&layout=compact" alt="akash-go" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-go&show_icons=true&locale=en" alt="akash-go" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-go&show_icons=true&locale=en" alt="akash-go" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-go&" alt="akash-go" /></p>
 
