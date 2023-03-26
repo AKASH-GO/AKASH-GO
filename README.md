@@ -28,7 +28,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/AkashRaja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/AkashRaja" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-go&show_icons=true&locale=en&layout=compact" alt="akash-go" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-go&show_icons=true&locale=en&layout=compact" alt="akash-go" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-go&show_icons=true&locale=en" alt="akash-go" /></p>
 
