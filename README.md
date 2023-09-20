@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Raja</h1>
 <h3 align="center">A Passionate FullStack Developer From India</h3>
-<img align="right" alt="Coding" width="390" border-radius=50% src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="Coding" width="390" border-radius=80% src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
 - 🌱 I’m currently learning **MEARN**
